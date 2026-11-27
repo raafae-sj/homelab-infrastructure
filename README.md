@@ -27,7 +27,6 @@ Documentation for my personal homelab: a Dell OptiPlex 3060 Micro running Proxmo
 - [x] Trusted HTTPS certificate
 - [ ] NAS storage
 - [ ] Automated backups
-(Tick the others as you finish them, and only tick what is really working.)
 
 ## Goals
 Learn Linux and server administration, networking and virtualisation through practical projects, and build my own monitoring and automation setup.
